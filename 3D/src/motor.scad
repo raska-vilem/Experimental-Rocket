@@ -67,7 +67,7 @@ module pripoj() {
     }
     difference() {
         union() {
-            cylinder(r=raketa_prumer/2-stena, h=25);
+            cylinder(r=raketa_prumer/2-stena, h=21);
             
         }
         translate([0, 0, 10]) union() {

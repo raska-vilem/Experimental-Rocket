@@ -1,2 +1,3 @@
 # Experimental-Rocket
-Experimental rocket for educational purposes
+3D printable experimental rocket
+![rocket](/images/rocket.png)
