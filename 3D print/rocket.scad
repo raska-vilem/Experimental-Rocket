@@ -5,9 +5,9 @@ use <src/hull.scad>
 use <src/joint.scad>
 use <src/container.scad>
 
-module_distance = 12;
+module_distance = 15;
 
-translate([0, 0, -0]) {
+translate([0, 0, -350]) {
 motor();
 translate([0, 0, stage_height+module_distance]) stage();
 translate([0, 0, stage_height*2+module_distance*2]) joint();
