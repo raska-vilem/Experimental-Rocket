@@ -1,28 +1,28 @@
 # Experimental-Rocket
-##3D printable experimental rocket
+## 3D printable experimental rocket
 
 ![rocket](/images/rocket.png)
 
-##OpenSCAD models
+## OpenSCAD models
 
 ![openscad rocket](/images/openscad-rocket.png)
 
-###Motor block
+### Motor block
 
 ![motor block](/images/motor.png)
 
-###Hull
+### Hull
 
 ![hull](/images/hull.png)
 
-###Joint
+### Joint
 
 ![joint](/images/joint.png)
 
-###Container for payload
+### Container for payload
 
 ![container](/images/container.png)
 
-###Nosecone
+### Nosecone
 
 ![motor block](/images/nosecone.png)
