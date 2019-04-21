@@ -1,4 +1,4 @@
-use <cone_lib.scad>
+use <lib/cone_lib.scad>
 include <../config.scad>
 
 module nosecone() {
