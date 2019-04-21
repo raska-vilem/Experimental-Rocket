@@ -1,5 +1,5 @@
 # Experimental-Rocket
-## 3D printable experimental rocket
+## 3D printable and reuseable experimental rocket
 
 ![rocket](/images/rocket.png)
 
