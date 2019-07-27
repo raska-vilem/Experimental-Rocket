@@ -10,9 +10,10 @@ stabilizers_count = 3;
 stabilizers_thickness = 1.5;
 stabilizers_height = 140;
 stabilizers_angle = 70;
+stabilizer_hloder_thickness = 0.75;
 
 //motor
-motor_diameter = 24;
+motor_diameter = 25.4;
 motor_height = 70;
 
 //stage joint

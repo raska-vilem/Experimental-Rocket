@@ -84,8 +84,8 @@ module stabilizatory(pocet) {
     module stabilizator() {
         translate([raketa_prumer/2, 0, 0]) difference() {
             union() {
-                translate([0, stabilizator_tloustka/2, 0]) cube([5, 1.5, stabilizator_vyska]);
-                translate([0, -stabilizator_tloustka/2-1.5, 0]) cube([5, 1.5, stabilizator_vyska]);
+                #translate([0, stabilizator_tloustka/2, 0]) cube([5, stabilizer_hloder_thickness, stabilizator_vyska]);
+                translate([0, -stabilizator_tloustka/2-stabilizer_hloder_thickness, 0]) cube([5, stabilizer_hloder_thickness, stabilizator_vyska]);
             }
             translate([0, 0, stabilizator_vyska]) rotate([0, stabilizers_angle, 0]) translate([0, -(stabilizator_tloustka+3)/2, 0]) cube([30, stabilizator_tloustka+3, 5]);
         }
