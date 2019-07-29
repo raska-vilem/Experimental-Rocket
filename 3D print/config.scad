@@ -5,12 +5,15 @@ motor_wall_thickness = 1.5;
 motor_holder_count = 3;
 stage_height = 160;
 
-//stabilizers
+//stabilizers_holder
 stabilizers_count = 3;
-stabilizers_thickness = 1.5;
+stabilizers_thickness = 0.5;
 stabilizers_height = 140;
-stabilizers_angle = 70;
-stabilizer_hloder_thickness = 0.75;
+stabilizers_angle = 75;
+stabilizers_width = 30;
+stabilizers_bottom_hop = 5;
+stabilizers_outer_height = 25;
+stabilizer_hloder_thickness = 0.5;
 
 //motor
 motor_diameter = 25.4;
