@@ -10,9 +10,9 @@ stabilizers_count = 3;
 stabilizers_thickness = 0.5;
 stabilizers_height = 140;
 stabilizers_angle = 75;
-stabilizers_width = 30;
+stabilizers_width = 40;
 stabilizers_bottom_hop = 5;
-stabilizers_outer_height = 25;
+stabilizers_outer_height = 30;
 stabilizer_hloder_thickness = 0.5;
 
 //motor
