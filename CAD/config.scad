@@ -7,16 +7,17 @@ stage_height = 160;
 
 //stabilizers_holder
 stabilizers_count = 3;
-stabilizers_thickness = 0.5;
+stabilizers_thickness = 0.8;
+stabilizers_holder_width = 2.5;
 stabilizers_height = 140;
 stabilizers_angle = 75;
 stabilizers_width = 40;
 stabilizers_bottom_hop = 5;
 stabilizers_outer_height = 30;
-stabilizer_hloder_thickness = 0.5;
+stabilizer_hloder_thickness = 0.8;
 
 //motor
-motor_diameter = 25.4;
+motor_diameter = 25.3;
 motor_height = 70;
 
 //stage joint
