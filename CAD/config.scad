@@ -7,8 +7,8 @@ stage_height = 160;
 
 //stabilizers_holder
 stabilizers_count = 3;
-stabilizers_thickness = 0.8;
-stabilizers_holder_width = 2.5;
+stabilizers_thickness = 1.1;
+stabilizers_holder_width = 3;
 stabilizers_height = 140;
 stabilizers_angle = 75;
 stabilizers_width = 40;
